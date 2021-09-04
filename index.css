@@ -115,7 +115,7 @@ form button:hover{
 
 #todo-list-header h3, #ongoing-list-header h3, #completed-list-header h3{
     text-align: center;
-    padding: 6px;
+    padding: 4px;
     color: violet;
 }
 
@@ -162,7 +162,7 @@ form button:hover{
         margin: 10px;
         padding: 10px;
         background-color: white;
-        height: 32px;
+        height: 30px;
         width: 83%;
         cursor: pointer;
         color: tomato;
@@ -208,7 +208,7 @@ form button:hover{
         margin: 10px;
         padding: 10px;
         background-color: white;
-        height: 32px;
+        height: 30px;
         width: 67%;
         cursor: pointer;
         color: tomato;
@@ -256,7 +256,7 @@ form button:hover{
         margin: 10px;
         padding: 10px;
         background-color: white;
-        height: 32px;
+        height: 30px;
         width: 360px;
         cursor: pointer;
         color: tomato;
@@ -304,7 +304,7 @@ form button:hover{
         margin: 10px;
         padding: 10px;
         background-color: white;
-        height: 32px;
+        height: 30px;
         width: 390px;
         cursor: pointer;
         color: tomato;

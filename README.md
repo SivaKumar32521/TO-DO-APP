@@ -4,12 +4,12 @@
 <h3>PROBLEM STATEMENT</h3>
             <p>
                 Most of them write down what are the tasks needs to be done everyday in the paper or in the notebook or in our personal dairy.
-                <br>
-                But we can not carry a paper or a notebook or a dairy and what we have returned on it everywhere.
-                <br>
-                We can carry our mobile device or laptop to the most of the places.
-                <br>
-                If our daily tasks are saved in the web application then there is no for carrying a paper or a notebook or a dairy.
+                <br><br>
+                But we can not able to carry a paper or a notebook or a dairy in that what we have returned on it everywhere.
+                <br><br>
+                Nowadays we can carry our mobile device or laptop to the most of the places.
+                <br><br>
+                If our daily tasks are saved in the web application then there is no need for carrying a paper or a notebook or a dairy.
             </p>
 
 

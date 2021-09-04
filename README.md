@@ -14,7 +14,7 @@
 
 
 <h3>PURPOSE</h3>
-            <li>It is used to plan our daily tasks.So that we know what are the tasks need to make our day productive.</li>
+            <li>It is used to plan our daily tasks.So that we know what are the task need to be done to make our day productive.</li>
             <li>We can save our tasks in the web application and we can be able to see what are the tasks needs to be done, ongoing task and completed tasks.</li>
 
 <h3>HOW IT WORKS</h3>

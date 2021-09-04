@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+        <link rel="stylesheet" href="index.css">
+        <title>MY TO DO APP</title>
+    </head>
+    <body>
+        <header>
+            <h1>MY TO DO</h1>
+        </header>
+
+        <form>
+            <input type="text" placeholder="Enter the to-do list" maxlength="25" id="todo-input">
+            <button id="todo-btn">ADD</button>
+        </form>
+
+        <div id="todo-container">
+            <div id="todo-list">
+                <div id="todo-list-header"><h3>TO DO</h3></div>
+            </div>
+
+            <div id="ongoing-list">
+                <div id="ongoing-list-header"><h3>ON GOING</h3></div>
+            </div>
+
+            <div id="completed-list">
+                <div id="completed-list-header"><h3>COMPLETED</h3></div>
+            </div>
+        </div>
+
+        <div id="reset">
+            <div><button type="button" id="reset-btn"><h3>RESET</h3></button></div>
+        </div>
+
+        <script src="index.js"></script>
+    </body>
+</html>

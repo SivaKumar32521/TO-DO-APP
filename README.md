@@ -6,7 +6,7 @@
 
 ## Features
 
-- To do list, Ongoing list and Completed list is available (To see what are the task need to be done, ongoing task and completed task).
+- To do list, Ongoing list and Completed list is available (To see what are the task needs to be done, ongoing task and completed task).
 - #### In to do list
   - Click 🚀 button available in the to do list to shift that task in to the ongoing list.
   - Don't want the task in the to do list (Just delete it by double clicking it).

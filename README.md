@@ -9,7 +9,7 @@
 - To do list, Ongoing list and Completed list is available (To see what are the task needs to be done, ongoing task and completed task).
 - #### In to do list
   - Click 🚀 button available in the to do list to shift that task in to the ongoing list.
-  - Don't want the task in the to do list (Just delete it by double clicking it).
+  - Created Tasks can be deleted in the to do list by double clicking it.
 - #### In ongoing list
   - Click ✔ button available in the ongoing list to shift that task in to the completed list.
 - #### In completed list
@@ -34,7 +34,7 @@
   - In completed list you can see all your completed tasks. Click 🗑 button available in the completed list to delete that task.
 
 - ##### Fifth
-  - To clear all your data click **RESET** button available at the bottom. 
+  - To clear all your data click **RESET** button available at the bottom of the web page. 
 
 ## Tech Stack Used
 

@@ -21,7 +21,7 @@
 ## Guide
 
 - ##### First
-  - Enter the task needs to be done. (After Entering you can see the task in the to do list).
+  - Enter the task needs to be done. (After entering you can see the task in the to do list).
 
 - ##### Second
   - Click 🚀 button available in the to do list to shift that task in to the ongoing list.

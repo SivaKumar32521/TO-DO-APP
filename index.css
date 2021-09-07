@@ -187,7 +187,7 @@ form input:focus{
     }
     
     .ongoing-btn, .completed-btn, .trash-btn {
-        padding: 10px 12px 3px 0px;
+        padding: 10px 12px 0px 0px;
         font-size: 25px;
     }
     
@@ -207,7 +207,7 @@ form input:focus{
     }
 
     form input, form button {
-        height: 45px;
+        height: 46px;
         font-size: medium;
     }
 
@@ -220,7 +220,7 @@ form input:focus{
     }
 
     #reset-btn {
-        height: 45px;
+        height: 46px;
         font-size: small;
     }
 
@@ -242,17 +242,17 @@ form input:focus{
     }
 
     #todo-list div, #ongoing-list div, #completed-list div {
-        height: 45px;
+        height: 46px;
         width: 90%;
     }
 
     #todo-list div li, #ongoing-list div li, #completed-list div li {
-        padding: 12px 0px 0px 10px;
+        padding: 14px 0px 0px 10px;
         font-size: medium;
     }
     
     .ongoing-btn, .completed-btn, .trash-btn {
-        padding: 10px 12px 3px 0px;
+        padding: 10px 12px 0px 0px;
         font-size: 25px;
     }
     
@@ -272,7 +272,7 @@ form input:focus{
     }
 
     form input, form button {
-        height: 45px;
+        height: 46px;
         font-size: medium;
     }
 
@@ -285,7 +285,7 @@ form input:focus{
     }
 
     #reset-btn {
-        height: 45px;
+        height: 46px;
         font-size: medium;
     }
 
@@ -307,7 +307,7 @@ form input:focus{
     }
 
     #todo-list div, #ongoing-list div, #completed-list div {
-        height: 45px;
+        height: 46px;
         width: 85%;
     }
 
@@ -317,12 +317,12 @@ form input:focus{
     }
     
     .ongoing-btn, .completed-btn, .trash-btn {
-        padding: 10px 12px 3px 0px;
+        padding: 10px 12px 0px 0px;
         font-size: 26px;
     }
     
     #todo-list-header, #ongoing-list-header, #completed-list-header {
-        padding-top: 12px;
+        padding-top: 14px;
         font-size: medium;
     }
 }

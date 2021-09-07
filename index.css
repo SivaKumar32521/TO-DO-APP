@@ -195,7 +195,7 @@ form input:focus{
     }
     
     #todo-list-header, #ongoing-list-header, #completed-list-header {
-        padding-top: 15px;
+        padding-top: 14px;
         font-size: small;
     }
 }

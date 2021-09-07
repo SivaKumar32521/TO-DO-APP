@@ -182,7 +182,7 @@ form input:focus{
     }
 
     #todo-list div li, #ongoing-list div li, #completed-list div li {
-        padding: 1px 0px 0px 10px;
+        padding: 16px 0px 0px 10px;
         font-size: small;
     }
     

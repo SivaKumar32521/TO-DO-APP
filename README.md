@@ -2,7 +2,7 @@
 
  **Website link - [TO-DO-APP](https://sivakumar32521.github.io/TO-DO-APP)**
 
-![TO-DO-APP-IMAGE!](Images/To Do App Image)
+![TO-DO-APP-IMAGE!](To Do App Image.png)
 
 ## Features
 

@@ -14,8 +14,8 @@
   - Click ✔ button available in the ongoing list to shift that task in to the completed list.
 - #### In completed list
   - Click 🗑 button available in the completed list to delete that task.
-- Click **reset** button to clear all your data.
-- Local Storage is Implemented (Your app data will not be deleted until you click **reset** button or until your brower history is cleared).
+- Click **reset** button to clear all data.
+- Local Storage is used (App data will not be deleted until user click **reset** button or until user brower history is cleared).
 - Responsive web application.
 
 ## Guide
